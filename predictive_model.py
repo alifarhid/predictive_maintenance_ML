@@ -6,7 +6,7 @@ from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_sc
 import os
 
 # Paths
-data_dir = os.getcwd()
+data_dir = os.path.join(os.getcwd(), 'data')
 tel_file = os.path.join(data_dir, 'Telemetry_Sample.xlsx')
 maint_file = os.path.join(data_dir, 'Maintenance_CMMS_Sample.xlsx')
 prod_file = os.path.join(data_dir, 'Production_Context_Sample.xlsx')
