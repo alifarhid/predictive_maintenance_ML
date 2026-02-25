@@ -475,10 +475,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact & Support
 
-**Author:** Ali Farihi Zadeh  
-**Email:** [Your Email]  
+**Author:** Ali Farhidzadeh  
+**Email:** alireza.farhidzadeh@gmail.com  
 **GitHub:** [@alifarhid](https://github.com/alifarhid)  
-**LinkedIn:** [Your LinkedIn]  
+**LinkedIn:** [alirezafarhidzadeh](https://www.linkedin.com/in/alirezafarhidzadeh/) 
 
 ### Support
 - 📧 Open an issue on GitHub for bugs and feature requests
