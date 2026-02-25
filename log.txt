@@ -1,0 +1,27 @@
+Step 1: Loading Datasets...
+Step 2: Feature Engineering (Rolling Windows)...
+Step 3: Merging Production Context...
+Step 4: Labeling (Target Variable)...
+Target Distribution:
+Fail_Next_24h
+0    13155
+1       24
+Name: count, dtype: int64
+Step 5: Model Training...
+
+--- Model Performance Report ---
+Accuracy:  0.9992
+Precision: 0.8000
+Recall:    0.8000
+F1 Score:  0.8000
+
+Feature Importance:
+                       Feature  Importance
+2      Vibration_mm_s_Mean_24h    0.400234
+0       Temperature_C_Mean_24h    0.333604
+1        Temperature_C_Std_24h    0.111185
+3       Vibration_mm_s_Std_24h    0.082991
+4  Motor_Current_Amps_Mean_24h    0.033107
+5   Motor_Current_Amps_Std_24h    0.018117
+6        Daily_Throughput_Tons    0.016251
+7                Ore_Grade_Pct    0.004511
